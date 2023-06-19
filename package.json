@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "jshint": "^2.13.6",
+    "mocha": "^10.2.0"
+  },
+  "name": "softunipractice",
+  "description": "Всички упражнения и задачи в SoftUni JS",
+  "version": "1.0.0",
+  "main": "Functions for Exercise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vepaks/SoftUniPractice.git"
+  },
+  "author": "AK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vepaks/SoftUniPractice/issues"
+  },
+  "homepage": "https://github.com/vepaks/SoftUniPractice#readme"
+}
